@@ -8,5 +8,5 @@ import react from '@vitejs/plugin-react'
 // Si vas a publicar en <usuario>.github.io (repo raíz), usa base: '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/game-dev-portfolio/',
+  base: '/Portfolio-David-Rios/',
 })
